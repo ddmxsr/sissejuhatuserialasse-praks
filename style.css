@@ -21,6 +21,20 @@ img {
     border-style: outset;
 }
 
+th {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: gray;
+    font-size: medium;
+    font-weight: bold;
+    padding: 8px;
+}
+
+td {
+    text-align: center;
+}
+
 
 @keyframes slideInFromLeft {
     0% {
