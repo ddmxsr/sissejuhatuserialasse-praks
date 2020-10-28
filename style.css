@@ -6,6 +6,14 @@ h1   {
     animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
+p {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    text-align: justify;
+}
+
 
 @keyframes slideInFromLeft {
     0% {
